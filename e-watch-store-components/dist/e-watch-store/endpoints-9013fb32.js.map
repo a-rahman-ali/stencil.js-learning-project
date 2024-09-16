@@ -1,0 +1,1 @@
+{"file":"endpoints-9013fb32.js","mappings":"MAAa,cAAc,GAAG,8BAA8B;MAC/C,iBAAiB,GAAG;;;;","names":[],"sources":["src/interfaces/endpoints.ts"],"sourcesContent":["export const users_endpoint = `http://localhost:3001/users`;\r\nexport const products_endpoint = 'http://localhost:3001/products';"],"version":3}

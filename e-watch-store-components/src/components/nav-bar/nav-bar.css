@@ -1,0 +1,25 @@
+@import '~bootstrap-icons/font/bootstrap-icons.css';
+
+.nav-elements div {
+    border: 1px solid gray;
+    border-radius: 2px;
+    color: white;
+    margin: 0;
+    margin-right: 15px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.nav-elements div:hover {
+    background-color: rgb(151, 13, 13);
+}
+
+.nav-elements {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.nav-elements h4 {
+    margin-right: 12px;
+}

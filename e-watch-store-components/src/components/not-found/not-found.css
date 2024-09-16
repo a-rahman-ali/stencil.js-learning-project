@@ -1,0 +1,24 @@
+:host {
+  display: block;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/023/372/283/non_2x/broken-electronic-wristwatch-broken-smart-watch-screen-generative-ai-photo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+
+}
+
+.not-found {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: rgb(232, 232, 231);
+  text-align: center;
+  padding: 50px 50px;
+  margin: 100px;
+}
+
+.not-found a {
+  color: red;
+}

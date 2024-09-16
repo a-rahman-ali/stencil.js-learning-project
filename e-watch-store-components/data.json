@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "password",
+      "cart": []
+    },
+    {
+      "id": "1",
+      "username": "user1",
+      "email": "user1@gmail.com",
+      "password": "password",
+      "cart": [
+        "2"
+      ]
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "email": "user2@gmail.com",
+      "password": "password",
+      "cart": []
+    },
+    {
+      "id": "3",
+      "username": "user3",
+      "email": "user3@gmail.com",
+      "password": "password",
+      "cart": []
+    },
+    {
+      "id": "4",
+      "username": "user4",
+      "email": "user4@gmail.com",
+      "password": "password",
+      "cart": []
+    },
+    {
+      "id": "5",
+      "username": "Abdul Rahman",
+      "email": "abdul.rahman@amiti.in",
+      "password": "password",
+      "cart": []
+    },
+    {
+      "id": "51",
+      "username": "user6",
+      "email": "user6@gmail.com",
+      "password": "password",
+      "cart": [
+        "3"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "product-name": "Smartwatch Series 6",
+      "product-price": 399.99,
+      "product-url": "https://images-cdn.ubuy.co.in/633b12488d2edc65997f4c20-smart-watch-bluetooth-smartwatch-touch.jpg",
+      "product-count": 50
+    },
+    {
+      "id": "2",
+      "product-name": "Smartwatch Pro Max",
+      "product-price": 499.99,
+      "product-url": "https://www.boat-lifestyle.com/cdn/shop/files/LunarVista-FI_Black01.png",
+      "product-count": 30
+    },
+    {
+      "id": "3",
+      "product-name": "Smartwatch Lite",
+      "product-price": 199.99,
+      "product-url": "https://cdn.pixabay.com/photo/2022/01/24/18/06/smart-watch-6964296_1280.jpg",
+      "product-count": 100
+    },
+    {
+      "id": "4",
+      "product-name": "Smartwatch Sport",
+      "product-price": 299.99,
+      "product-url": "https://www.boat-lifestyle.com/cdn/shop/files/LunarVista-FI_Black01.png",
+      "product-count": 75
+    },
+    {
+      "id": "5",
+      "product-name": "Smartwatch Classic",
+      "product-price": 349.99,
+      "product-url": "https://cdn.pixabay.com/photo/2022/01/24/18/06/smart-watch-6964296_1280.jpg",
+      "product-count": 40
+    },
+    {
+      "id": "6",
+      "product-name": "imoo",
+      "product-price": 123,
+      "product-url": "https://imoostore.in/wp-content/uploads/2022/10/imoo-Z1-1080X1350-01.jpg",
+      "product-count": 16
+    },
+    {
+      "id": "7",
+      "product-name": "temp watch",
+      "product-price": 213,
+      "product-url": "https://www.boat-lifestyle.com/cdn/shop/files/LunarVista-FI_Black01.png",
+      "product-count": 0
+    }
+  ]
+}
